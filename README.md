@@ -7,6 +7,16 @@ The SDAIA T5 Capstone project aims to improve traffic flow, reduce congestion, a
 
 # Traffic Solution Using Computer Vision
 
+## Table of Contents
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Methodology](#methodology)
+  - [Traffic Density Model](#traffic-density-model)
+  - [Violation Detection](#violation-detection)
+- [Deployment](#deployment)
+- [Results and Impact](#results-and-impact)
+- [Future Work](#future-work)
+
 ## Overview
 This project aims to develop a smart traffic signal system that measures vehicle density at each intersection, giving priority to the signal facing the highest traffic volume. This is achieved through the use of artificial intelligence technologies to analyze traffic data and determine the optimal time allocation for each signal based on the number of vehicles in each direction.
 
