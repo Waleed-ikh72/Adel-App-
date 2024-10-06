@@ -5,7 +5,9 @@ The SDAIA T5 Capstone project aims to improve traffic flow, reduce congestion, a
 ![Project_logo](https://github.com/user-attachments/assets/d90faf4c-ee75-4157-a123-0f7eb6b1a56e)
 
 
-# Traffic Solution Using Computer Vision
+<p align="center">
+  <h1>Traffic Solution Using Computer Vision</h1>
+</p>
 
 ## Table of Contents
 - [Overview](#overview)
