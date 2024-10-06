@@ -38,7 +38,14 @@ We trained the YOLOv8n and YOLOv8s models to detect lane violations. The system 
 The system is deployed using a **Streamlit app** on Hugging Face to leverage GPU processing for real-time traffic monitoring. Violators’ data is stored in SQLite3, and email notifications are sent regarding violations and associated fines.
 
 ## Results and Impact
-The model has achieved a high level of accuracy in vehicle detection (81%) and violation identification (79%-91%). By addressing traffic congestion and improving law enforcement, this solution supports the goals outlined in **Saudi Vision 2030**, contributing to smarter and safer urban transportation systems.
+- The model has achieved a high level of accuracy in:
+  - Vehicle detection: 81%
+  - Violation identification: 79%-91%
+- The solution addresses traffic congestion and improves law enforcement efficiency.
+- It supports the goals outlined in **Saudi Vision 2030**, contributing to:
+  - Smarter urban transportation systems.
+  - Safer road conditions.
+
 
 ## Future Work
 
