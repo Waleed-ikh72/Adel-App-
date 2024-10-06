@@ -8,7 +8,8 @@ The SDAIA T5 Capstone project aims to improve traffic flow, reduce congestion, a
 # Traffic Solution Using Computer Vision
 
 ## Overview
-This project, developed as part of the **SDAIA T5 Capstone**, offers an AI-powered traffic management system designed to address the growing traffic congestion and road safety challenges in Saudi Arabia. Aligned with Vision 2030, the solution utilizes state-of-the-art computer vision and machine learning models to optimize traffic flow, detect violations, and enhance overall road safety.
+This project aims to develop a smart traffic signal system that measures vehicle density at each intersection, giving priority to the signal facing the highest traffic volume. This is achieved through the use of artificial intelligence technologies to analyze traffic data and determine the optimal time allocation for each signal based on the number of vehicles in each direction.
+
 
 By combining models like YOLOv8 for vehicle detection and PaddleOCR for license plate recognition, the system provides real-time monitoring and dynamic traffic signal adjustments based on vehicle density at intersections. The project also integrates a violation detection system that automatically identifies vehicles crossing lanes illegally, notifying violators via automated email, which helps law enforcement efforts.
 
