@@ -1,6 +1,7 @@
 # Adel-App-
-The SDAIA T5 Capstone project aims to improve traffic flow, reduce congestion, and enhance road safety in Saudi Arabia using advanced computer vision and machine learning techniques, aligning with Vision 2030. This project is made by Mohammed Al Malki, Mohammed Alrowais, 
-Khaled AlGhamdi, and Waleed Al Ikhwan
+The SDAIA T5 Capstone project aims to improve traffic flow, reduce congestion, and enhance road safety in Saudi Arabia using advanced computer vision and machine learning techniques, aligning with Vision 2030. This project is made by Mohammed Al Malki, Mohammed Alrowais,Khaled AlGhamdi, and Waleed Al Ikhwan
+
+
 ![image](https://github.com/user-attachments/assets/5c7a38d3-844a-4e60-90fb-aff2063352ed)
 
 ![Project_logo](https://github.com/user-attachments/assets/d90faf4c-ee75-4157-a123-0f7eb6b1a56e)
