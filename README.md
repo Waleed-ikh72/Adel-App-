@@ -56,9 +56,3 @@ The system is deployed using a **Streamlit app** on Hugging Face to leverage GPU
   - Smarter urban transportation systems.
   - Safer road conditions.
 
-
-## Future Work
-
-- **Predictive Vehicle Motion**: Developing an advanced camera system that anticipates vehicle movements to further improve traffic flow and safety.
-- **Pedestrian Safety**: Enhancing pedestrian safety at crosswalks by integrating people-counting technology to optimize the timing of walk signals.
-- **Red-Light Violation Detection**: Implementing a system to monitor and deter vehicles from running red lights at busy intersections.
