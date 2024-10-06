@@ -55,4 +55,20 @@ The system is deployed using a **Streamlit app** on Hugging Face to leverage GPU
 - It supports the goals outlined in **Saudi Vision 2030**, contributing to:
   - Smarter urban transportation systems.
   - Safer road conditions.
+## Libraries Used
+
+1. streamlit
+2.opencv-python
+3.Pillow
+4.numpy
+5.moviepy
+6.imageio[ffmpeg]
+7.inference-sdk  
+8.ultralytics
+9.deep_sort_realtime
+10.imageio
+11.paddlepaddle
+12.paddleocr
+13.matplotlib
+14.pandas
 
